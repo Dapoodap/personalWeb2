@@ -86,7 +86,7 @@ viewBox="0 0 100 100">
 
     <div className="footer-copyright text-center py-3">
       © 2022 Copyright:
-      <a  style={{ textDecoration: "none", color: "black" }}  href="https://mdbootstrap.com/"> DaffaRadhitya</a>
+      <a  style={{ textDecoration: "none", color: "black" }}  href="#"> DaffaRadhitya</a>
     </div>
   </footer>
 );
